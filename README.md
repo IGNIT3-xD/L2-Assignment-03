@@ -66,16 +66,6 @@ CREATE TABLE Bookings (
 
 ---
 
-## 🌱 Sample Data
-
-**4 Users** — 3 Football Fans, 1 Ticket Manager
-
-**5 Matches** — across Champions League, Premier League, and Serie A
-
-**5 Bookings** — including one with a NULL seat and payment status to test edge cases
-
----
-
 ## 🔍 SQL Queries
 
 ### Query 1 — Available Champions League Matches
